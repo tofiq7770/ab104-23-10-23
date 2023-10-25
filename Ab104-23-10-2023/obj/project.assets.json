@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tofiq\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ca.r214.10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tofiq\\Desktop\\Ab104-23-10-2023\\Ab104-23-10-2023\\Ab104-23-10-2023.csproj",
+      "projectUniqueName": "C:\\Users\\ca.r214.10\\Desktop\\ab104-23-10-23\\Ab104-23-10-2023\\Ab104-23-10-2023.csproj",
       "projectName": "Ab104-23-10-2023",
-      "projectPath": "C:\\Users\\tofiq\\Desktop\\Ab104-23-10-2023\\Ab104-23-10-2023\\Ab104-23-10-2023.csproj",
-      "packagesPath": "C:\\Users\\tofiq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tofiq\\Desktop\\Ab104-23-10-2023\\Ab104-23-10-2023\\obj\\",
+      "projectPath": "C:\\Users\\ca.r214.10\\Desktop\\ab104-23-10-23\\Ab104-23-10-2023\\Ab104-23-10-2023.csproj",
+      "packagesPath": "C:\\Users\\ca.r214.10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ca.r214.10\\Desktop\\ab104-23-10-23\\Ab104-23-10-2023\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tofiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ca.r214.10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
